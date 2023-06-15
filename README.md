@@ -4,7 +4,7 @@
 
 Solutions to some frequently asked Logical questions in interview.
 
-Today 26042020, I have uploaded possible solutions to the following challenges
+
 # Java
 * MaximumOccuring.java   - Number of times a character is present int a given String
 * Recursivefact.java     - A recursive factorial program
