@@ -1,6 +1,5 @@
 # ProgrammingChallenges
-# Target Audience- Exploratory testers primarily.
-# Never old to relearn.
+# Never hestitate to relearn.
 
 Solutions to some frequently asked Logical questions in interview.
 
